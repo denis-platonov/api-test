@@ -1,0 +1,80 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "required": [
+      "id",
+      "items"
+    ],
+    "properties": {
+      "id": {
+        "$id": "#/items/properties/id",
+        "type": "string",
+        "title": "The Id Schema",
+        "default": "",
+        "examples": [
+          "1"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "items": {
+        "$id": "#/items/properties/items",
+        "type": "array",
+        "title": "The Items Schema",
+        "items": {
+          "$id": "#/items/properties/items/items",
+          "type": "object",
+          "title": "The Items Schema",
+          "required": [
+            "item",
+            "pizza",
+            "toppings"
+          ],
+          "properties": {
+            "item": {
+              "$id": "#/items/properties/items/items/properties/item",
+              "type": "integer",
+              "title": "The Item Schema",
+              "default": 0,
+              "examples": [
+                1
+              ]
+            },
+            "pizza": {
+              "$id": "#/items/properties/items/items/properties/pizza",
+              "type": "string",
+              "title": "The Pizza Schema",
+              "default": "",
+              "examples": [
+                "Medium 8 Slices - 2 toppings"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "toppings": {
+              "$id": "#/items/properties/items/items/properties/toppings",
+              "type": "array",
+              "title": "The Toppings Schema",
+              "items": {
+                "$id": "#/items/properties/items/items/properties/toppings/items",
+                "type": "string",
+                "title": "The Items Schema",
+                "default": "",
+                "examples": [
+                  "Mushrooms",
+                  "Extra cheese"
+                ],
+                "pattern": "^(.*)$"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
