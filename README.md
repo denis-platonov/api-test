@@ -65,6 +65,6 @@ Toppings:
 7. I'm not sure about reqs of this project but HTTPS is not enforced, so regular HTTP requests can be executed and intercepted potentially :)
 8. There are hundreds of test cases for this project as well as hundreds of bugs )
 9. It is already 190 lines of code in OrdersTest class, so I'd consider restructuring them by creating sub-folders for every end-point and creating corresponding classes to separate out GET\POST\DELETE type of test cases
-10. Didn't touch .gitignore, so it is messy
+10. Could have used existing Order and Pizza classes...
 
 PS: There are some typos in the README doc itself, like "API Demo Challange" or "Excercise"

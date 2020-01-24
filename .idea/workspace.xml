@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31114f5a-e6f1-46eb-b890-13cf6bd20554" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Wjvh9QCqe52z9MnmC1vVPfVqYg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Denis\OneDrive\Automation\APIChallenge\src\test\resources" />
+      <recent name="C:\Users\Denis\OneDrive\Automation\APIChallenge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.OrdersTest">
+    <configuration name="OrdersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.sampleAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.test.demo.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sample.test.demo.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sample.test.demo.tests.OrdersTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersTest.getOrdersDataIntegrity" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.sampleAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.test.demo.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sample.test.demo.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sample.test.demo.tests.OrdersTest" />
+      <option name="METHOD_NAME" value="getOrdersDataIntegrity" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersTest.postOrdersInvalidPizza" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.sampleAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.test.demo.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sample.test.demo.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sample.test.demo.tests.OrdersTest" />
+      <option name="METHOD_NAME" value="postOrdersInvalidPizza" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersTest.postOrdersPizzaNotSpecified" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.sampleAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.test.demo.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sample.test.demo.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sample.test.demo.tests.OrdersTest" />
+      <option name="METHOD_NAME" value="postOrdersPizzaNotSpecified" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersTest.postOrdersPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.sampleAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.test.demo.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sample.test.demo.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sample.test.demo.tests.OrdersTest" />
+      <option name="METHOD_NAME" value="postOrdersPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OrdersTest" />
+        <item itemvalue="TestNG.OrdersTest.postOrdersPositive" />
+        <item itemvalue="TestNG.OrdersTest.getOrdersDataIntegrity" />
+        <item itemvalue="TestNG.OrdersTest.postOrdersPizzaNotSpecified" />
+        <item itemvalue="TestNG.OrdersTest.postOrdersInvalidPizza" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31114f5a-e6f1-46eb-b890-13cf6bd20554" name="Default Changelist" comment="" />
+      <created>1579675934440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579675934440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="692" y="378" width="1117" height="841" key="#xdebugger.evaluate" timestamp="1579736412580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1035" y="404" width="1028" height="769" key="#xdebugger.evaluate/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579707238088" />
+    <state x="692" y="378" width="1117" height="841" key="#xdebugger.evaluate/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579736412580" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1579859672001">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579859672001" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579746732731" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1579859672001">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579859672001" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579746732731" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1579859672001">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579859672001" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579746732731" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1579859672001">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579859672001" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579746732731" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1579737039926">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579711790692" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579737039926" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1579737039926">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579711790692" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579737039926" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1579737039926">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579711790692" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579737039926" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1579737039926">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1440.0.1440.860@0.0.2560.1400" timestamp="1579711790692" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579737039926" />
+    <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1579736234791">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400/-1440.0.1440.900@0.0.2560.1400" timestamp="1579736234791" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/test/demo/tests/OrdersTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/test/demo/tests/OrdersTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/test/demo/tests/OrdersTest.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
